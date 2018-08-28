@@ -1,0 +1,13 @@
+c:\users\pavol\documents\visual studio 2013\Projects\AnagramYT\AnagramYT\bin\Debug\AnagramYT.exe.config
+C:\Users\Pavol\documents\visual studio 2013\Projects\AnagramYT\AnagramYT\bin\Debug\AnagramYT.exe
+C:\Users\Pavol\documents\visual studio 2013\Projects\AnagramYT\AnagramYT\bin\Debug\AnagramYT.pdb
+C:\Users\Pavol\documents\visual studio 2013\Projects\AnagramYT\AnagramYT\obj\Debug\AnagramYT.csprojResolveAssemblyReference.cache
+C:\Users\Pavol\documents\visual studio 2013\Projects\AnagramYT\AnagramYT\obj\Debug\AnagramYT.exe
+C:\Users\Pavol\documents\visual studio 2013\Projects\AnagramYT\AnagramYT\obj\Debug\AnagramYT.pdb
+C:\Users\Morgan\Downloads\AnagramYT\AnagramYT\AnagramYT\bin\Debug\AnagramYT.exe.config
+C:\Users\Morgan\Downloads\AnagramYT\AnagramYT\AnagramYT\bin\Debug\AnagramYT.exe
+C:\Users\Morgan\Downloads\AnagramYT\AnagramYT\AnagramYT\bin\Debug\AnagramYT.pdb
+C:\Users\Morgan\Downloads\AnagramYT\AnagramYT\AnagramYT\obj\Debug\AnagramYT.csprojAssemblyReference.cache
+C:\Users\Morgan\Downloads\AnagramYT\AnagramYT\AnagramYT\obj\Debug\AnagramYT.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Downloads\AnagramYT\AnagramYT\AnagramYT\obj\Debug\AnagramYT.exe
+C:\Users\Morgan\Downloads\AnagramYT\AnagramYT\AnagramYT\obj\Debug\AnagramYT.pdb
